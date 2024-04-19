@@ -1,7 +1,7 @@
 .. _cn_overview_paddle_device_cuda:
 
 paddle.device.cuda
-=================
+==========================
 
 paddle.device.cuda 目录下包含与 CUDA 相关的 API。具体如下：
 
